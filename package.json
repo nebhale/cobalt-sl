@@ -1,0 +1,21 @@
+{
+    "name": "cobalt-sl",
+    "displayName": "Cobalt (SL)",
+    "description": "Cobalt (SL)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cobalt (SL)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cobalt-SL-color-theme.json"
+            }
+        ]
+    }
+}
